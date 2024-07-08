@@ -1,0 +1,5 @@
+This project addresses an image classification task aimed at understanding the behavior of a racing car within a Gym environment. The primary objective revolves around effectively categorizing 96x96 color images, each representing one of the five available actions for controlling the car.
+
+The central challenge involves training a model to accurately classify images depicting various actions controlling the racing car. These actions likely encompass maneuvers such as acceleration, braking, turning, etc. The dataset is structured in folders, with each labeled by the corresponding action ID.
+
+The Gym environment for the racing car is a simulation platform designed for reinforcement learning tasks. Within this context, the car navigates through various scenarios, responding to different control actions. The 96x96 color images provided encapsulate snapshots of these scenarios, illustrating diverse states of the car while performing distinct actions.
